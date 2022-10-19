@@ -1,0 +1,12 @@
+languageCode = "en-us"
+title = "China Falls Community Website"
+
+# Change the default theme to be use when building the site with Hugo
+theme = "hugo-theme-relearn"
+[params]
+  # Change default color scheme with a variant one. Can be empty, "red", "blue", "green".
+  themeVariant = "green"
+
+# For search functionality
+[outputs]
+home = [ "HTML", "RSS", "JSON"]
