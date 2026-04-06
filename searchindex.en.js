@@ -26,7 +26,7 @@ var relearn_searchindex = [
   {
     "breadcrumb": "China Falls Community Web Site",
     "content": "VIS Contact Information Oﬃce Hours 8am-5pm (M-F)\nEmail info@vismanagement.com\nWebsite http://www.vismanagement.com\nPhone 1-800-537-9619\nMail 8617 Martin Way E.\nLacey, WA 98516\nFacebook Group (for residents only) China Falls Community in Newcastle",
-    "description": "VIS Contact Information Oﬃce Hours 8am-5pm (M-F)\nEmail info@vismanagement.com\nWebsite http://www.vismanagement.com\nPhone 1-800-537-9619\nMail 8617 Martin Way E.\nLacey, WA 98516\nFacebook Group (for residents only) China Falls Community in Newcastle",
+    "description": "VIS Contact Information Oﬃce Hours 8am-5pm (M-F)\nEmail info@vismanagement.com\nWebsite http://www.vismanagement.com\nPhone 1-800-537-9619\nMail 8617 Martin Way E.\nLacey, WA 98516",
     "tags": [],
     "title": "Contact Us",
     "uri": "/contact/index.html"
