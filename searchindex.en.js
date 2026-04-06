@@ -1,8 +1,8 @@
 var relearn_searchindex = [
   {
     "breadcrumb": "China Falls Community Web Site",
-    "content": "View CC\u0026R’s document (PDF)\nIn addition, the HOA Board of Directors adopted the following rules in August 2019:\nRules on Rentals. Homeowners who rent or who are considering to rent are subject to these rules. Assessment Collection Policy. Defines how assessments will be collected, including how and when late fees and other penalties will be applied. Includes SAMPLE letters of these notices. Fines Schedule/Right to Hearing. Describes how the Association handles violations of the CC\u0026Rs and any Rules and Regulations, including how fines will be applied and hearing procedures for owners to dispute fines. Code of Conduct for Board Members. Standard of ethical conduct for the Board of Directors.",
-    "description": "View CC\u0026R’s document (PDF)\nIn addition, the HOA Board of Directors adopted the following rules in August 2019:\nRules on Rentals. Homeowners who rent or who are considering to rent are subject to these rules. Assessment Collection Policy. Defines how assessments will be collected, including how and when late fees and other penalties will be applied. Includes SAMPLE letters of these notices. Fines Schedule/Right to Hearing. Describes how the Association handles violations of the CC\u0026Rs and any Rules and Regulations, including how fines will be applied and hearing procedures for owners to dispute fines. Code of Conduct for Board Members. Standard of ethical conduct for the Board of Directors.",
+    "content": "View CC\u0026R’s document (PDF)\nIn addition, the HOA Board of Directors adopted the following rules in March 2026:\nComprehensive Rules",
+    "description": "View CC\u0026R’s document (PDF)\nIn addition, the HOA Board of Directors adopted the following rules in March 2026:\nComprehensive Rules",
     "tags": [],
     "title": "CC\u0026R’s (Covenants, Conditions and Restrictions)",
     "uri": "/ccr/index.html"
